@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-HOME TASK 05
+HOME TASK 02
